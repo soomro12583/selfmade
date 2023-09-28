@@ -1,0 +1,20 @@
+*{
+    background-color: #fff;
+}
+
+
+
+.navbar{
+    width: 100%;
+}
+
+.nav-logo{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.nav-logo > .food
+{
+    color: blue;
+}
