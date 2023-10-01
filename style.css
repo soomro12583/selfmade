@@ -303,3 +303,51 @@ flex-direction: column;
 
 
 }
+
+@media screen and (min-width:315px) and (max-width:1371px) {
+    
+    .right> img{
+    width: 350px;
+    height: 300px;
+    background: transparent;
+    margin-bottom: 0%;
+}
+}
+
+
+@media screen and (min-width:315px) and (max-width:1371px) {
+
+    .right> img{
+        display: none;
+    }
+}
+
+
+@media screen and (min-width:315px) and (max-width:735px) {
+.bike-search{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+
+.inter-address{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.bike-btn{
+    width: 100%;
+    text-align: center;
+
+}
+
+}
+
+@media screen and (min-width:315px) and (max-width:735px) {
+    .inter-address{
+        disp
+    }
+}
+
